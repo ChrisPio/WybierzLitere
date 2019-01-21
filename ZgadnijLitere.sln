@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZgadnijLitere", "ZgadnijLitere\ZgadnijLitere.csproj", "{17C323C9-3FD8-421B-B592-464E4FAAB703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C323C9-3FD8-421B-B592-464E4FAAB703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C323C9-3FD8-421B-B592-464E4FAAB703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C323C9-3FD8-421B-B592-464E4FAAB703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C323C9-3FD8-421B-B592-464E4FAAB703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {714912C0-3636-432E-8F21-F08D51A34FFA}
+	EndGlobalSection
+EndGlobal
